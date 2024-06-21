@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/modules.xml
+/.idea/.name
+/.idea/caches
+/.idea/inspectionProfiles
+/build
+/captures
+.externalNativeBuild
+.cxx
+.idea
+.vscode
